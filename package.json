@@ -1,0 +1,12 @@
+{
+  "name": "demo-lp-dawin",
+  "description": "Demo project for LP DAWIN",
+  "version": "1.0.0",
+  "author": "Votre nom <email>",
+  "dependencies": {
+    "vue": "",
+    "webpack": "",
+    "vue-router": "",
+    "vuex": ""
+  }
+}
